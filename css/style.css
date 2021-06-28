@@ -124,6 +124,7 @@ a.nav-link.active{
 }
 #responsive:hover{
 	width: 152px;
+	height: 152px;
 }
 
 @media(max-width: 769px){
